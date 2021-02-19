@@ -84,8 +84,8 @@
 
 <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
 <script>
-var app6 = new Vue({
-  el: '#app-6',
+var app = new Vue({
+  el: '#app',
   data: {
     message: 'Hello Vue!'
   }
